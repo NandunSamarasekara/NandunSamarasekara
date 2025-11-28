@@ -1,4 +1,4 @@
-## Hi there 👋
+## Ayubowan 🙏
 
 My name is Nandun Samarasekara. I'm a Data science undergraduate interested in all things along with Software Engineering!
 
