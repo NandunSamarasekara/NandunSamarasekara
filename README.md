@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Convolutional Neural Networks**
 
-- 😎 I recently built [I recently built a machine learning model to predict whether the income of US employees exceeds 50k$](https://github.com/NandunSamarasekara/Machine-Learning-model-to-predit-Income.git)
+- 😎 I recently built a machine learning model to predict whether the income of US employees exceeds 50k$(https://github.com/NandunSamarasekara/Machine-Learning-model-to-predit-Income.git)
 
 - 📝 I regularly write articles on [https://medium.com/@nandunneelaka](https://medium.com/@nandunneelaka)
 
