@@ -26,4 +26,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nandunsamarasekara&show_icons=true&locale=en" alt="nandunsamarasekara" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nandunsamarasekara&" alt="nandunsamarasekara" /></p>
+<p align="left">
+  <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=NandunSamarasekara&theme=dark&hide_border=true&background=0D1117&stroke=00FFAA&ring=00FFAA&fire=FF00AA&currStreakLabel=00FFFF" />
+</p>
