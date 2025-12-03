@@ -1,31 +1,88 @@
-<h1 align="left">Ayubowan🙏, I'm Nandun Samarasekara</h1>
-<h3 align="left">I'm a Data science undergraduate interested in all things along with Software Engineering!</h3>
+<img align="right" width="380" src="https://github.com/NandunSamarasekara/NandunSamarasekara/blob/main/assets/banner.gif?raw=true" alt="Banner" />
 
-- 🔭 I’m currently working on [Bicylo - A property rental platform for university students]([website to be released soon!])
+<h1 align="left">
+  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Ayubowan 🙏 I'm Nandun Samarasekara
+</h1>
 
-- 🌱 I’m currently learning **Convolutional Neural Networks**
-
-- 😎 I recently built a machine learning model to predict whether the income of US employees exceeds 50k$(https://github.com/NandunSamarasekara/Machine-Learning-model-to-predit-Income.git)
-
-- 📝 I regularly write articles on [https://medium.com/@nandunneelaka](https://medium.com/@nandunneelaka)
-
-- 📫 How to reach me **nandunneelaka@gmail.com**
-
-- ⚡ Fun fact **I'm into Photography**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nandun-samarasekara-5564162b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nandun-samarasekara-5564162b8/" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@nandunneelaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@nandunneelaka" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nandunsamarasekara&show_icons=true&locale=en&layout=compact" alt="nandunsamarasekara" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nandunsamarasekara&show_icons=true&locale=en" alt="nandunsamarasekara" /></p>
+<h3 align="left">Data Science Undergraduate • ML Engineer in the Making • Photographer by Passion 📸</h3>
 
 <p align="left">
-  <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=NandunSamarasekara&theme=dark&hide_border=true&background=0D1117&stroke=00FFAA&ring=00FFAA&fire=FF00AA&currStreakLabel=00FFFF" />
+  <a href="https://www.linkedin.com/in/nandun-samarasekara-5564162b8"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nandun%20Samarasekara-0077B5?logo=linkedin&style=flat-square"></a>
+  <a href="https://medium.com/@nandunneelaka"><img alt="Medium" src="https://img.shields.io/badge/Medium-@nandunneelaka-12100E?logo=medium&style=flat-square"></a>
+  <a href="mailto:nandunneelaka@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Email-nandunneelaka@gmail.com-D14836?logo=gmail&style=flat-square"></a>
+  <img src="https://komarev.com/ghpvc/?username=NandunSamarasekara&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
+
+---
+
+### Current Streak
+<div align="center">
+  <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=NandunSamarasekara&theme=tokyonight&hide_border=true&stroke=00ffaa&ring=00ffaa&fire=ff00aa&currStreakLabel=00ffff&sideLabels=00ffaa&dates=灰白" />
+</div>
+
+<br/>
+
+---
+
+### 🔥 Currently Hacking On
+🔭 **Bicylo** – Property rental platform for university students (Launching soon!)
+
+### 🌱 Learning Right Now
+Advanced **Convolutional Neural Networks** & Computer Vision
+
+### Recent ML Project
+[Income >$50K Predictor (USA Census)](https://github.com/NandunSamarasekara/Machine-Learning-model-to-predit-Income) – XGBoost + Streamlit Dashboard
+
+### ✍️ Latest Articles
+Check out my [Medium](https://medium.com/@nandunneelaka) for Data Science & tech deep-dives
+
+### ⚡ Fun Fact
+I shoot landscapes & street photography across Sri Lanka 📸
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,express,tailwind,tensorflow,pandas,mysql,postgresql,linux,git,docker,photoshop,vscode&perrow=10" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NandunSamarasekara&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NandunSamarasekara&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</p>
+
+<!-- Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NandunSamarasekara&theme=tokyonight&no-frame=true&row=1&margin-w=15"/>
+</p>
+
+<!-- Contribution Snake -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NandunSamarasekara/NandunSamarasekara/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
+
+<!-- Random Quote -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?theme=tokyonight" />
+</p>
+
+---
+
+<h3 align="center">Let's collaborate — Open to internships, freelance, or just geek talk!</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/nandun-samarasekara-5564162b8/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="mailto:nandunneelaka@gmail.com">
+    <img src="https://img.shields.io/badge/Email%20Me-EA4335?logo=gmail&style=for-the-badge&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/wave.gif" width="100%" />
