@@ -1,4 +1,4 @@
-<img align="right" width="380" src="https://raw.githubusercontent.com/NandunSamarasekara/NandunSamarasekara/main/assets/namaste-banner.gif" alt="Namaste 🙏" />
+<img align="right" width="380" src="https://cdn.jsdelivr.net/gh/saadeghi/saadeghi@master/files/namaste.gif" />
 
 <h1 align="left">
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Ayubowan 🙏 I'm Nandun Samarasekara
@@ -84,5 +84,3 @@ I shoot landscapes & street photography across Sri Lanka 📸
     <img src="https://img.shields.io/badge/Email%20Me-EA4335?logo=gmail&style=for-the-badge&logoColor=white" />
   </a>
 </p>
-
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/wave.gif" width="100%" />
