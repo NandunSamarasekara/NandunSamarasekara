@@ -1,4 +1,4 @@
-<img align="right" width="380" src="https://github.com/NandunSamarasekara/NandunSamarasekara/blob/main/assets/banner.gif?raw=true" alt="Banner" />
+<img align="right" width="380" src="https://raw.githubusercontent.com/NandunSamarasekara/NandunSamarasekara/main/assets/namaste-banner.gif" alt="Namaste 🙏" />
 
 <h1 align="left">
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Ayubowan 🙏 I'm Nandun Samarasekara
