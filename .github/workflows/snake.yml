@@ -26,9 +26,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Push to output branch
+      # Push to output branch (FIXED: Correct repo/action name + latest v4)
       - name: Push to Output Branch
-        uses: crazy-max/ghaction-gh-pages@v3.3.1  # Updated version
+        uses: crazy-max/ghaction-github-pages@v4  # Corrected: full "github-pages" + v4
         with:
           target_branch: output
           build_dir: dist
