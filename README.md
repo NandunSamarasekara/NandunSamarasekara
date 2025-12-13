@@ -24,7 +24,7 @@
 
 ---
 
-### 🔥 Currently Hacking On
+### 🔥 Currently Working On
 🔭 Research on "Incorporating AI into EEG based mindfulness meditation for university students"
 
 ### 🌱 Learning Right Now
