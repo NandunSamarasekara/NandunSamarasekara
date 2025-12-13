@@ -25,7 +25,7 @@
 ---
 
 ### 🔥 Currently Hacking On
-🔭 **Bicylo** – Property rental platform for university students (Launching soon!)
+🔭 Research on "Incorporating AI into EEG based mindfulness meditation for university students"
 
 ### 🌱 Learning Right Now
 Advanced **Convolutional Neural Networks** & Computer Vision
