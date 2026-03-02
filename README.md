@@ -58,11 +58,6 @@ I shoot landscapes & street photography across Sri Lanka 📸
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NandunSamarasekara&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </p>
 
-<!-- Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NandunSamarasekara&theme=tokyonight&no-frame=true&row=1&margin-w=15"/>
-</p>
-
 <!-- Random Quote -->
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?theme=tokyonight" />
