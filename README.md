@@ -8,7 +8,7 @@
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Nandun+Samarasekara;Data+Science+%C2%B7+ML+Engineer;EEG+%2B+AI+Researcher;Photographer+%F0%9F%93%B8)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Ayubowan+%F0%9F%99%8F+I'm+Nandun+Samarasekara;Data+Science+%C2%B7+ML+Engineer;EEG+%2B+AI+Researcher;Photographer+%F0%9F%93%B8)
 
 <br/>
 
