@@ -66,17 +66,6 @@ Investigating how deep learning can interpret EEG brainwave signals to support m
 
 ---
 
-### 🗺️ Learning Roadmap
-
-```
-ML Foundations          ████████████████████  ✅ Complete
-XGBoost & Ensembles     ████████████████████  ✅ Complete
-CNNs & Architecture     █████████████░░░░░░░  🔄 In Progress
-Computer Vision         ████████░░░░░░░░░░░░  🔄 In Progress
-Transformers & Attn     ░░░░░░░░░░░░░░░░░░░░  🔜 Up Next
-MLOps & Deployment      ░░░░░░░░░░░░░░░░░░░░  🔜 Planned
-```
-
 ---
 
 ### 🚀 Featured Project
