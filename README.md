@@ -68,12 +68,6 @@ Investigating how deep learning can interpret EEG brainwave signals to support m
 
 ---
 
-### 🚀 Featured Project
-
-<a href="https://github.com/NandunSamarasekara/Machine-Learning-model-to-predit-Income">
-  <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=NandunSamarasekara&repo=Machine-Learning-model-to-predit-Income&theme=tokyonight&hide_border=true&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&bg_color=0d1117"/>
-</a>
-
 <br/><br/><br/><br/><br/><br/>
 
 ---
