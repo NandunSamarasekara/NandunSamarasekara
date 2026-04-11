@@ -68,10 +68,6 @@ Investigating how deep learning can interpret EEG brainwave signals to support m
 
 ---
 
-<br/><br/><br/><br/><br/><br/>
-
----
-
 ### 🛠️ Tech Stack
 
 <div align="center">
