@@ -94,18 +94,6 @@ readme_content = '''<!-- DARK/LIGHT MODE AWARE HEADER -->
   
 </div>
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-  ![Snake animation](https://github.com/NandunSamarasekara/NandunSamarasekara/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
 ## ✍️ Latest from Medium
 
 <div align="center">
