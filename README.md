@@ -43,29 +43,6 @@ interests  : [ machine_learning, computer_vision, photography ]
 available  : internships · freelance · open source collabs
 ```
 
----
-
-### ⚡ Active Research
-
-<table>
-<tr>
-<td width="60%">
-
-**EEG + AI Mindfulness System**  
-Investigating how deep learning can interpret EEG brainwave signals to support mindfulness meditation practices among university students. Bridging neuroscience and ML.
-
-</td>
-<td width="40%" align="center">
-
-`Neuroscience` `Deep Learning` `Signal Processing`  
-`EEG` `Python` `TensorFlow`
-
-</td>
-</tr>
-</table>
-
----
-
 ### 🛠️ Tech Stack
 
 <div align="center">
