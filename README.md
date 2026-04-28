@@ -1,3 +1,4 @@
+<!-- DARK/LIGHT MODE AWARE HEADER -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:0f0f23,50:1a1a3e,100:16213e&height=200&section=header&text=Ayubowan%20🙏&fontSize=50&fontColor=00d9ff&animation=twinkling&fontAlignY=35&desc=I'm%20Nandun%20Samarasekara&descSize=20&descAlignY=55&descAlign=50"/>
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:e0e7ff,50:c7d2fe,100:a5b4fc&height=200&section=header&text=Ayubowan%20🙏&fontSize=50&fontColor=1e3a8a&animation=twinkling&fontAlignY=35&desc=I'm%20Nandun%20Samarasekara&descSize=20&descAlignY=55&descAlign=50"/>
