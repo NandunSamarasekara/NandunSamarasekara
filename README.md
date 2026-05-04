@@ -39,7 +39,6 @@
 ```yaml
 name       : Nandun Samarasekara
 role       : Data Science Undergraduate + ML Engineer
-research   : AI × EEG × Mindfulness for university students
 location   : Sri Lanka 🇱🇰
 interests  : [ machine_learning, computer_vision, photography ]
 available  : internships · freelance · open source collabs
