@@ -40,7 +40,7 @@
 name       : Nandun Samarasekara
 role       : Data Science Undergraduate + ML Engineer
 location   : Sri Lanka 🇱🇰
-interests  : [ machine_learning, computer_vision, photography ]
+interests  : machine_learning, computer_vision, photography 
 available  : internships · freelance · open source collabs
 ```
 
