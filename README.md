@@ -34,10 +34,6 @@
 
 ---
 
-# 💫 About Me:
-🔭 I’m currently working on Stoddartii-AI based interview Summarizer<br>👯 I’m looking to collaborate<br>🤝 I’m looking for help with <br>🌱 I’m currently learning Data Science<br>💬 Ask me about<br>⚡ Fun fact
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nandun-samarasekara-5564162b8/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@nandunneelaka) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nandunneelaka@gmail.com) 
 
