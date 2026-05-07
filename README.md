@@ -48,6 +48,19 @@
 
 ---
 
+## 📈 Coding Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NandunSamarasekara&theme=tokyo-night&hide_border=true&area=true&area_color=00E5FF)
+
+---
+
+## ⏱️ WakaTime Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 ## 🐍 Contribution Snake
 
 <picture>
