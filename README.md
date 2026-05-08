@@ -82,5 +82,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:80deea,100:e0f7fa&height=100&section=footer"/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003366,100:0a0a1a&height=100&section=footer"/>
 </picture>
-
 </div>
