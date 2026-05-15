@@ -1,5 +1,4 @@
 <div align="center">
-
   
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,100:003366&height=140&section=header&text=&animation=fadeIn"/>
