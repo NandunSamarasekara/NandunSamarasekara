@@ -8,7 +8,7 @@
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Ayubowan+%F0%9F%99%8F+I'm+Nandun+Samarasekara;Data+Science+%C2%B7+ML+Engineer;Neuroinformatics+%C2%B7+AI+Researcher;Photographer+%F0%9F%93%B8)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Ayubowan+%F0%9F%99%8F+I'm+Nandun+Samarasekara;Data+Science+%C2%B7+ML+Engineer;Photographer+%F0%9F%93%B8)
 
 <br/>
 
@@ -36,58 +36,58 @@
 
 ## 🧬 About Me
 
-I am a **Data Science Undergraduate** specializing in machine learning, deep learning architectures, neuroinformatics, and scalable data engineering pipelines.
+I am a **Data Science Undergraduate** specializing in machine learning, deep learning architectures, computer vision, and scalable data engineering pipelines.
 
 - 🎓 **Education:** B.Sc. (Hons) in Information Technology Specializing in Data Science at **SLIIT**.
-- 🔬 **Research Focus:** Investigating AI integration with **EEG-based mindfulness meditation** in collaboration with the Faculty of Medicine, University of Colombo, and developing brain-inspired AI systems at **BrAINLabs Inc.**.
-- 💻 **Engineering Interests:** Full-stack AI systems, high-throughput data processing, vector search (RAG), and cloud-native microservices.
-- 📸 **Beyond Code:** Passionate landscape photographer exploring visual storytelling with Adobe Lightroom and Photoshop.
+- 🔬 **Research & AI:** Investigating AI integration with **EEG-based mindfulness meditation** (Faculty of Medicine, University of Colombo) and dark matter substructure classification with **DeepLense (ML4SCI)**.
+- 💻 **Engineering Focus:** Geospatial ELT data pipelines, high-performance web platforms, computer vision architectures, and production ML models.
+- 📸 **Beyond Code:** Passionate landscape photographer exploring visual storytelling.
+
+---
+
+## 🚀 Projects
+
+### 📊 **Urban Flow Analytics** — *End-to-End Urban Mobility Data Pipeline & BI Dashboard*
+> **🏆 SLIIT Codefest 2026 Merit Award**
+- Engineered an end-to-end ELT data pipeline using a **Medallion Architecture (Bronze/Silver/Gold)** on 12 months of taxi trip data.
+- Applied **Uber H3 Geospatial Indexing** to match 1M+ trips to transit hubs, feeding a live 5-page Power BI dashboard via **Databricks SQL Warehouse**.
+- **Tech Stack:** `Databricks` `PySpark` `Delta Lake` `ELT Pipeline` `Uber H3` `Power BI`
+
+### 🌌 **DeepLense — Gravitational Lensing Image Classifier**
+> **GSoC 2026 / ML4SCI**
+- Engineered an end-to-end computer vision pipeline using PyTorch to classify simulated strong lensing images across three dark matter substructure categories.
+- Fine-tuned **ResNet-18**, **ResNet-34**, and **ResNet-50** models and built a soft-voting ensemble achieving **95.68% validation accuracy** and **0.99+ AUC**.
+- **Tech Stack:** `PyTorch` `TorchVision` `Python` `NumPy` `Scikit-Learn` `Matplotlib` `Seaborn`
+
+### 🌐 **Zosterix — Academic Research & Supervisor Discovery Platform**
+> **SaaS by Phaenicio**
+- Designed, architected, and built a full-stack research platform enabling scholars to publish knowledge, discuss academic topics via threads/blogs, collaborate, and discover verified academic supervisors.
+- **Tech Stack:** `Go (Gin)` `PostgreSQL` `Redis` `JWT` `React 18` `TypeScript` `Vite` `TanStack Query` `TipTap` `Recharts` `Zod`
+
+### 📖 **Poth — Book Community Service**
+> **Mobile & Web Platform for Bookshops & Book Enthusiasts**
+- Bridges the gap between bookshop owners and book lovers, enabling shop discovery, community reviews, stock/order management, and engaging blogs.
+- **Tech Stack:** `React Native (Expo)` `Node.js` `Express.js` `MongoDB Atlas` `JWT` `Bcryptjs` `Cloudinary`
+
+### 📈 **Income Prediction Machine Learning Pipeline**
+- Engineered a complete ML workflow using the UCI Adult dataset: preprocessed raw demographic data, trained and evaluated 6 classification models (Logistic Regression, Decision Tree, Random Forest, KNN, SVM, XGBoost), and deployed the top-performing model for production inference.
+- **Tech Stack:** `Python` `Pandas` `NumPy` `Scikit-Learn` `XGBoost` `Jupyter Notebook`
+
+### 🏏 **Sri Lanka ODI Performance Analysis**
+> **Post-Sangakkara Era Exploratory Data Analysis & Visualization**
+- Engineered a data cleaning and EDA pipeline on 900+ Sri Lanka ODI match records, segmenting pre/post-2015 (Kumar Sangakkara retirement) eras to analyze win-rate trends by toss outcome, batting order, and opposition, including a 20-match rolling form analysis.
+- **Tech Stack:** `Python` `Pandas` `Matplotlib` `Jupyter Notebook`
 
 ---
 
 ## 🛠️ Technical Stack
 
-| Domain | Technologies & Tools |
+| Category | Technologies |
 |---|---|
-| **AI / Machine Learning** | `PyTorch` `TensorFlow` `Scikit-Learn` `XGBoost` `OpenCV` `Google ML Kit` |
-| **Data Engineering & BI** | `Pandas` `NumPy` `PostgreSQL` `pgvector` `Redis` `Tableau` |
-| **Backend & Architecture** | `Python` `Go (Gin)` `FastAPI` `Node.js` `Express.js` `REST APIs` |
-| **Frontend & Mobile** | `TypeScript` `JavaScript` `React` `React Native` `Next.js` `Tailwind CSS` |
-| **DevOps & Infrastructure** | `Docker` `Docker Compose` `Git` `GitHub Actions` `Supabase` |
-
----
-
-## 🚀 Featured Projects & Research
-
-### 🧠 **Shen Multimodal RAG Platform**
-> *AI microservice architecture for deep analysis and semantic search across complex unstructured PDF documents.*
-- Built using **FastAPI**, **Next.js**, **PostgreSQL (pgvector)**, and **Ollama**.
-- Features containerized vector indexing, hybrid retrieval, and local LLM inference.
-
-### 📊 **Urban Flow Analytics — SLIIT Codefest 2026**
-> *Data engineering pipeline and demand forecasting framework for urban mobility data.*
-- Engineered chunk-based data processing pipelines and **XGBoost** predictive models.
-- Served through containerized inference microservices and interactive **Tableau** BI dashboards.
-
-### 🩺 **Clinical Decision Support System (Medical X-Ray)**
-> *Deep learning classification pipeline for medical chest radiograph diagnostics.*
-- Fine-tuned **ResNet** models in PyTorch with a **FastAPI** backend and dynamic **React** frontend.
-
-### 🏋️ **GymFreak AI Fitness Mobile App**
-> *Real-time pose tracking and repetition counting mobile application.*
-- Integrated **Google ML Kit** pose detection in **React Native** for real-time posture analysis.
-
-### 🌐 **Zosterix — Academic Research Platform**
-> *Full-stack ecosystem for academic publishing, discussion, and supervisor discovery.*
-- Engineered with high-performance **Go (Gin)** backends, **Redis** caching, and **React**.
-
----
-
-## ✍️ Published Technical Articles
-
-- **Understanding Convolutional Neural Networks & ResNet Architectures** — *Medium*
-- **Containerizing Machine Learning Workflows with Docker** — *Medium*
-- **A Structured Roadmap for Modern Data Engineering** — *Medium*
+| **AI / Machine Learning** | `PyTorch` `TorchVision` `Scikit-Learn` `XGBoost` `NumPy` `Pandas` |
+| **Data Engineering & Analytics** | `Databricks` `PySpark` `Delta Lake` `Uber H3` `Power BI` `Matplotlib` `Seaborn` |
+| **Backend & Databases** | `Go (Gin)` `Node.js` `Express.js` `PostgreSQL` `MongoDB Atlas` `Redis` `JWT` |
+| **Frontend & Mobile** | `React 18` `TypeScript` `React Native (Expo)` `Vite` `TanStack Query` |
 
 ---
 
@@ -106,13 +106,13 @@ I am a **Data Science Undergraduate** specializing in machine learning, deep lea
 
 ---
 
-## 📈 Activity & Contributions
+## 📈 Coding Activity
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NandunSamarasekara&theme=tokyo-night&hide_border=true&area=true&area_color=00E5FF)
 
-<br/>
+---
 
-### 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NandunSamarasekara/NandunSamarasekara/output/github-snake-dark.svg"/>
